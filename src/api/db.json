@@ -1,0 +1,166 @@
+{
+  "db" : [
+    {
+      "customer" : [
+        {
+          "id" : 1,
+          "firstName" : "Nusret",
+          "lastName" : "Demir",
+          "address" : ["1744  Pinchelone Street Zurigo", "48  Via Street Lugano"],
+          "email" : "nusretdemir@gmail.com",
+          "phone" : "00410000000",
+          "image" : "https://png.pngtree.com/png-vector/20190704/ourmid/pngtree-vector-user-young-boy-avatar-icon-png-image_1538408.jpg",
+          "companies" : [
+            {
+              "id" : 1,
+              "address" : "54  Curator Street Zurigo",
+              "name" : "Nusret'in Yeri",
+              "email" : "nusretcenter@gmail.com",
+              "phone" : "00410000000",
+              "branches" : [
+                {
+                  "id" : 1,
+                  "name" : "Nusret Zurigo",
+                  "menus" : [
+                    {
+                      "id" : 1,
+                      "name" : "Zurigo Menu-1 Name",
+                      "date" : "12/12/2020",
+                      "description" : "Contrary to popular belief, Lorem Ipsum is not simply random text.",
+                      "template" : "template-1",                      
+                      "subMenus" : [
+                        {
+                          "id" : 1,
+                          "title" : "Lokum Menu",
+                          "description" : "Lorem ipsum.",
+                          "price" : "34 chf",
+                          "image" : "",
+                          "dishes" : [
+                            {
+                              "id" : 1,
+                              "name" : "Kuzu Pirzola",
+                              "description" : "Lorem ipsum",
+                              "price" : "12 chf"
+                            },
+                            {
+                              "id" : 2,
+                              "name" : "Kuzu Tandir",
+                              "description" : "Lorem ipsum",
+                              "price" : "16 chf"
+                            }
+                          ]
+                        },
+                        {
+                          "id" : 2,
+                          "title" : "Vegetarian Menu",
+                          "description" : "Lorem ipsum.",
+                          "price" : "28 chf",
+                          "image" : "",
+                          "dishes" : [
+                            {
+                              "id" : 3,
+                              "name" : "Brocoli",
+                              "description" : "Lorem ipsum",
+                              "price" : "8 chf"
+                            },
+                            {
+                              "id" : 4,
+                              "name" : "Margarita Pizza",
+                              "description" : "Lorem ipsum",
+                              "price" : "13 chf"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id" : 2,
+                      "name" : "Zurigo Menu-2 Name",
+                      "date" : "31/12/2020",
+                      "description" : "It has roots in a piece of classical Latin literature from 45 BC.",
+                      "template" : "template-1",
+                      "subMenus" : [
+                        {
+                          "id" : 3,
+                          "title" : "Durum Menu",
+                          "description" : "Lorem ipsum.",
+                          "price" : "14 chf",
+                          "image" : "",
+                          "dishes" : [
+                            {
+                              "id" : 5,
+                              "name" : "Adana Durum",
+                              "description" : "Lorem ipsum",
+                              "price" : "8 chf"
+                            },
+                            {
+                              "id" : 6,
+                              "name" : "Urfa Durum",
+                              "description" : "Lorem ipsum",
+                              "price" : "6 chf"
+                            }
+                          ]
+                        },
+                        {
+                          "id" : 4,
+                          "title" : "Pizza Menu",
+                          "description" : "Lorem ipsum.",
+                          "price" : "12 chf",
+                          "image" : "",
+                          "dishes" : [
+                            {
+                              "id" : 7,
+                              "name" : "Pizza Ton",
+                              "description" : "Lorem ipsum",
+                              "price" : "12 chf"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id" : 2,
+                  "name" : "Nusret Lugano",
+                  "menus" : [
+                    {
+                      "id" : 3,
+                      "name" : "Lugano Menu-1 Name",
+                      "date" : "12/12/2020",
+                      "description" : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+                      "template" : "template-1",                      
+                      "subMenus" : [
+                        {
+                          "id" : 3,
+                          "title" : "Makarna Menu",
+                          "description" : "Lorem ipsum.",
+                          "price" : "12 chf",
+                          "image" : "",
+                          "dishes" : [
+                            {
+                              "id" : 1,
+                              "name" : "Soslu Makarna",
+                              "description" : "Lorem ipsum",
+                              "price" : "12 chf"
+                            },
+                            {
+                              "id" : 2,
+                              "name" : "Ton Balikli Makarna",
+                              "description" : "Lorem ipsum",
+                              "price" : "12 chf"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+]
+}
