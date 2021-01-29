@@ -1,16 +1,15 @@
 import React, { Component } from 'react'
 
-
- class Menu extends Component {
-    
-
-
+class Aboutus extends Component {
     render() {
         return (
             <div>
-                
+                <h2>Aboutus</h2>
+              
+               
             </div>
         )
     }
 }
-export default Menu;
+
+export default Aboutus;

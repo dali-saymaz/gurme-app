@@ -23,6 +23,8 @@ import {
                   </li>
                   <li className="nav-item ml-2">
                     <Link className="nav-link" to="my-restaurants"><i class="fas fa-store mr-1"></i>My restaurants</Link>
+                  </li>   <li className="nav-item ml-2">
+                    <Link className="nav-link" to="aboutus"><i class="fas fa-store mr-1"></i>aboutus</Link>
                   </li>
                 </ul>
               </div>
